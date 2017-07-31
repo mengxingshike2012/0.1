@@ -1,0 +1,23 @@
+{
+  "name": "0.1",
+  "version": "0.0.1",
+  "description": "a simple formater and only format to 0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengxingshike2012/0.1.git"
+  },
+  "keywords": [
+    "0.1",
+    "format"
+  ],
+  "author": "windfantasy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengxingshike2012/0.1/issues"
+  },
+  "homepage": "https://github.com/mengxingshike2012/0.1#readme"
+}
